@@ -11,14 +11,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejas1510" alt="Tejas1510" /> </p> 
   
 ## Hi there 👋,           
-#### I'm Aditya Morankar, Student at 👨‍💻 Ramdeobaba college Pursuing B.Tech in ECE major and CSE minor.  I am tech enthusiast, I love to build Full stack Application and AI/ML projects currently focusing on React, Django, ML, DL and Competitive Programming.  
+#### I'm Aditya Morankar, Student at 👨‍💻 Ramdeobaba college Pursuing B.Tech in ECE major and CSE minor.  I am tech enthusiast, I love to build Full stack Application and AI/ML projects currently focusing on WebDev , AI/ML and Competitive Programming.  
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
 
 # Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on **FULL STACK DEV**
-- 🌱 I’m currently learning **Javascript**, **SPRING BOOT**, **REACT JS**, **DJANGO-REST-API**
+- 🌱 I’m currently learning **Javascript**, **Next JS**, **REACT JS**, **DJANGO-REST-API**
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/adi112100?tab=repositories">**Github**</a>
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: aditya.morankar8@gmail.com
